@@ -1,0 +1,110 @@
+Copyright (c) Jakub Losert
+
+All rights reserved.
+
+---
+
+Personal Use License
+
+Launcher Gate is currently released for:
+
+- personal use
+- personal testing
+- non-commercial evaluation
+
+You may:
+
+- use Launcher Gate on your personal systems
+- test the software
+- report bugs and compatibility issues
+
+You may NOT:
+
+- redistribute this project
+- publish modified versions
+- include this project in another project or product
+- use this project commercially
+- sell this project or derivative works
+- repackage this project for public distribution
+
+Modification, redistribution, and commercial usage are prohibited unless
+explicit written permission is provided by the copyright holder.
+
+---
+
+No Warranty
+
+Launcher Gate is provided:
+
+"AS IS"
+
+without warranty of any kind.
+
+The author makes no guarantees regarding:
+
+- compatibility
+- stability
+- security
+- fitness for a particular purpose
+- data safety
+- uninterrupted functionality
+
+Use this software at your own risk.
+
+The author is not responsible for:
+
+- data loss
+- system damage
+- broken launchers
+- permission issues
+- desktop environment behavior
+- software conflicts
+- direct or indirect damages caused by using this software
+
+---
+
+Platform Notes
+
+Launcher Gate interacts with:
+
+- Linux desktop launchers
+- executable files
+- permissions
+- desktop environment behavior
+
+Behavior may vary between:
+
+- Linux distributions
+- desktop environments
+- file managers
+- permission systems
+
+Some functionality may depend on:
+
+- ".desktop" trust handling
+- executable permissions
+- AppImage metadata behavior
+- local Python environments
+- Java runtime availability
+
+---
+
+Future Licensing
+
+This license may change in future versions of Launcher Gate.
+
+Future versions may introduce:
+
+- broader public usage rights
+- open-source licensing
+- community contribution rules
+
+The current release remains protected under this license until replaced by a
+future official license version.
+
+
+Contact
+
+For feedback, licensing requests, or permission inquiries:
+
+jakubkodik@gmail.com
