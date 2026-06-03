@@ -1,3 +1,6 @@
+<img width="800" height="600" alt="AppImage → Desktop Launcher" src="https://github.com/user-attachments/assets/aa1b00e3-1593-47c8-9b82-9e9746de452e" />
+<img width="800" height="600" alt="Desktop Icon Replacement" src="https://github.com/user-attachments/assets/8968b4c9-31c7-4063-a20b-1336abb9c604" />
+<img width="800" height="600" alt="custom icon workflow" src="https://github.com/user-attachments/assets/153fda76-c636-4f2a-a5a9-f5e08176747e" />
 Launcher Gate
 
 Launcher Gate is a small Linux desktop utility for creating ".desktop"
